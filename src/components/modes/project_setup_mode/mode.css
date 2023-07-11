@@ -1,0 +1,9 @@
+.flow {
+  background-color: antiquewhite;
+
+  .flow-buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 1rem;
+  }
+}

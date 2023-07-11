@@ -1,0 +1,11 @@
+.app {
+  background-color: aliceblue;
+  color: black;
+  padding: 1rem;
+
+  .mode-buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 1rem;
+  }
+}
